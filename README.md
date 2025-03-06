@@ -8,6 +8,6 @@
 
 🖋 Et voici quelques-unes de mes compétences annexes au développement web :
 
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,ai,notion,obsidian,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,pr,ps,ai,notion,obsidian)](https://skillicons.dev)
 
 👇 N'hésitez pas à vous rendre sur les Repositories juste en-dessous pour voir une partie de mon travail en détail ! 👇

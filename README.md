@@ -2,7 +2,7 @@
 
 😄 Je m'appelle Nathaniel, et j'évolue dans le milieu de la tech et plus particulièrement du développement web !
 
-## 📝 Actuellement étudiant, voici mes compétences techniques actuelles dans le domaine :
+## 📝 Actuellement étudiant, voici mes compétences techniques actuelles dans le domaine:
 
 ### Langages
 
